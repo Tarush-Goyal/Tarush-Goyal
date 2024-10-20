@@ -1,5 +1,5 @@
 ### 🌎 Hello World, I'm Tarush! 👋
-#### I am a Software Developer 💻👾. I code with.. 
+#### I am a Software Engineer 💻👾. I code with.. 
 
 
 ![Java](https://img.shields.io/badge/-Java-F14C40?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff)
@@ -17,19 +17,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 
 #### A bit more about me..
-```typescript
+```import * from @Tarush-Goyal
 let Tarush = {
   code: [Python, Java, Javascript, C, C++, Typescript, SQL, HTML, CSS],
   tools: [Node.js, Django, Docker, Git, Postman, Azure, Jira],
   experience: {
-                        Hobby Lobby Inc.: "Software Developer",
-                        The University of Oklahoma: "Machine Learning Researcher",
-                        Heartland Payment Systems, Global Payments Inc.: "Software Developer",
-                        Center for Earth Observation and Modeling: "Software Developer Intern"
+                        CommerceIQ: "Software Engineer",
+                        AskIITians: "Backend Development Intern",
+                        Synk Consulting: "Full Stack Development Intern"
+                        DIGITebl: "Full Stack Development Intern"
   },
-  education: "Computer Science @ The University of Oklahoma",
-  hackathons: ["Hacklahoma 22 - Winner", "BackyardHacks @Major League Hacking", "Hacklahoma 21"],
-  awards: ["President's Award for Outstanding Transfer Students", "President's Honor Roll", "Dean's Honor Roll"]
+  education: "Computer Science @ Jaypee Institute of Information Technology, Sec-62 Noida",
 }
 ```
 
