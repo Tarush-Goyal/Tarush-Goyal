@@ -25,7 +25,7 @@ let Tarush = {
   experience: {
                         CommerceIQ: "Software Engineer",
                         AskIITians: "Backend Development Intern",
-                        Synk Consulting: "Full Stack Development Intern"
+                        Synk Consulting: "Full Stack Development Intern",
                         DIGITebl: "Full Stack Development Intern"
   },
   education: "Computer Science @ Jaypee Institute of Information Technology, Sec-62 Noida",
