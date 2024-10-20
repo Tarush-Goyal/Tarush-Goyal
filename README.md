@@ -17,7 +17,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 
 #### A bit more about me..
-```import * from @Tarush-Goyal
+```typescript
+import * from @Tarush-Goyal
 let Tarush = {
   code: [Python, Java, Javascript, C, C++, Typescript, SQL, HTML, CSS],
   tools: [Node.js, Django, Docker, Git, Postman, Azure, Jira],
